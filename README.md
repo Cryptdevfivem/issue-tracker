@@ -1,6 +1,6 @@
 # issue-tracker
 
-[Open a new issue](https://github.com/ARMA-FiveM/issue-tracker/issues)
+[Open a new issue](https://github.com/HVCFivem/issue-tracker/issues)
 
 1. New issue
 2. Bug Reported
