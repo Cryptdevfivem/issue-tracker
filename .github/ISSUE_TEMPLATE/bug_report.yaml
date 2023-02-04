@@ -51,7 +51,7 @@ body:
     id: permid
     attributes:
       label: HVC User ID
-      description: Your ARMA account user ID (/getmyid)
+      description: Your HVC account user ID (/getmyid)
       placeholder: "50"
     validations:
       required: true
